@@ -1,0 +1,10 @@
+#container{
+    border: solid 3px; color: black;
+    padding: 20px;
+    margin: 5%;
+
+}
+#big-box{
+    border: dotted 5px; color:brown 
+}
+
